@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0px;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+#map { height: 100vh; }
+
+.custom-popup .leaflet-popup-content-wrapper {
+    /* background:rgba(255, 255, 255, 0.01); */
+    color:#ffffff;
+    width: auto;
+    /* font-size:16px; */
+    /* line-height:24px; */
+    border-radius: 15px;
+    }
+
+.tbl {
+    background-color: #fff;
+    color: #181D31;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+
+.tb {
+    /* padding: 10px; */
+    background-color: #fff;
+    border-radius: 15px;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: #181D31;
+    /* padding: 10px; */
+}
+
+.kode {
+    /* border-radius: 15px; */
+    padding: 7px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
